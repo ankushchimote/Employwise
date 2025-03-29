@@ -18,10 +18,10 @@ Clone the repository and install dependencies:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ankushchimote/Employwise.git
 
 # Navigate into the project directory
-cd your-repo
+cd Employwise
 
 # Install dependencies
 npm install  
@@ -42,8 +42,6 @@ This will start the React project in development mode, and you can access it at 
 ## Contributions
 Feel free to submit issues and pull requests.
 
-## License
-This project is licensed under the MIT License.
 
 ---
 
